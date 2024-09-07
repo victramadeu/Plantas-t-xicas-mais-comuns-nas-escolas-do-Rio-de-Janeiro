@@ -2,7 +2,8 @@
 
 **Descrição:**
 
-Este projeto web tem como objetivo auxiliar na identificação de plantas tóxicas comumente encontradas em escolas do Rio de Janeiro. Através de uma interface intuitiva, o usuário pode pesquisar por nome da planta ou sintoma, obtendo informações detalhadas sobre a espécie, incluindo nome científico, outros nomes populares, partes tóxicas e sintomas de intoxicação.
+Este projeto web foi desenvolvido durante a Imersão Dev com Gemini!
+O projeto objetiva auxiliar na identificação de plantas tóxicas comumente encontradas em escolas do Rio de Janeiro. Através de uma interface intuitiva, o usuário pode pesquisar por nome da planta ou sintoma, obtendo informações detalhadas sobre a espécie, incluindo nome científico, outros nomes populares, partes tóxicas e sintomas de intoxicação.
 
 **Funcionalidades:**
 
